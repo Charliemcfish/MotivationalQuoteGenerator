@@ -1,5 +1,5 @@
 # Motivational Quote Generator
 ## Press the button and motivate yourself!!!
-### GIF of Project below (Download and use code if you like :) }
+### GIF of Project below
 ![GIF](/FinalGIF.gif)
 
